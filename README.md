@@ -60,14 +60,6 @@
 
 ---
 
-### 🔆 Trabalhos e Retrabalhos
-<p align="center">
-  <img src="https://github.com/LenonCunha33/Lenon/blob/main/Ama%20Not%C3%ADcias.png" alt="Ama Notícias" width="48%" style="max-width:650px;border-radius:12px;" />
-  <img src="https://github.com/LenonCunha33/Lenon/blob/main/Codein.png" alt="Codein" width="48%" style="max-width:650px;border-radius:12px;" />
-</p>
-
----
-
 ### ⚡ Status GitHub
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lenonrj-dev&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" />
