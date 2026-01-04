@@ -8,7 +8,7 @@
 <h1 align="center">👋 Saudações! Eu sou <strong>Lenon Cunha</strong></h1>
 
 <p align="center">
-  <em>Desenvolvedor Full Stack (foco Front-end) | Next.js • React • TypeScript • Tailwind • Python</em>
+  <em>Desenvolvedor Full Stack | Next.js • React • TypeScript • Tailwind • Python</em>
 </p>
 
 <!-- Badges de perfil (agora para lenonrj-dev) -->
